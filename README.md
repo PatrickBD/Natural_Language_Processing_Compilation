@@ -36,7 +36,7 @@ The original Kernal can be tried and run here: https://www.kaggle.com/valkling/m
 # The_Pythonic_Python_Script_4_Making_Monty_Python_Scripts
 (I know, It is pretty much the best title ever!)
 
-A series of sacked LSTM text generator notebooks
+This is a whole series of sacked LSTM text generator notebooks.
 
 The python language was named after Monty Python's Flying Circus so why not use python to generate an unlimited supply of new Monty Python scripts? This notebook is a compressed version of my text generating AI. Text generator like this one require a lot of computational power so it only became really feasible to do them on Kaggle Kernels when they upgraded to have a GPU and a 6 hour computational limit. Even so, 6 hours is still kind of lean for an LSTM text generator but I can make it work quite well anyways.
 
