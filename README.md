@@ -3,6 +3,15 @@ A compilation of NLP projects, including sentiment analysis, NLI, generators, cl
 
 Too many NLP notebooks for one repository. My GitHub can get rather cluttered making a new repository to feature for each one and some smaller or older code samples need a good home without obscuring newer and more interesting projects. If it deals with text, it is in here. (Maybe I should make a text generater to make all my documentation for me. Might save me some time.)
 
+# ARPAbet-agrams
+A new word "game" where words are found that share the same ARPAbet transcription codes, but with a different order!
+
+We have all heard of anagrams, where you take a word or phrase and shuffle the letters to make a new one. However, I was wondering what if, instead of letters, what if we shuffled the words base sounds around. The ARPAbet is a set of phonetic transcription codes developed by Advanced Research Projects Agency (ARPA) in the 1970s. It allows us to break down words farther into visual representation of speech sounds. Now what if we shuffled these around to make, what I am calling, an ARPAbet-agram. This is a bit more complex than anyone would ever care to deal with (It makes anagrams look pretty easy by comparasion). Calling it a word "game" is somewhat generous, but we can make a computer do all that teadious work to find ARPAbetagrams and we can just enjoy the results. Feel free to play with this notebook or just download the outputed .CSV file of ~135,000 words and their possible ARPAbetagrams. 
+
+Check it out on Kaggle: https://www.kaggle.com/valkling/arpabet-agrams
+
+Check out the ARPAbetagram phrases here on Kaggle: https://www.kaggle.com/valkling/arpabet-agrams-phrases
+
 # Indeed_Job_Tagging
 Machine learning algorithm made to determine job tags based on job posts. This was made for the Indeed Machine Learning CodeSprint on Hacker Rank. It got 29th place, which was enoungh to win the T-shirt prize. It gives job posts tags based off their raw descriptions by looking for keywords. Just exicuting the test.rb with the test/train files in the same folder will create a tags.tsv with the answers. It has an F1-Score of 0.685. The CodeSprint was only open for a short time so this code was created in a short window. The final code runs well but not as flexabile as ideal. The only package used was "csv".
 
@@ -32,6 +41,10 @@ My model is an aggregate a RNN and 2 Ridge models. It is kept in a jypiter noteb
 The Kaggle competition and related dataset can be found here: https://www.kaggle.com/c/mercari-price-suggestion-challenge
 
 The original Kernal can be tried and run here: https://www.kaggle.com/valkling/mercari-rnn-2ridge-models-with-notes-0-42755
+
+# Piano_Playing_AI
+A Recurrent Neural Network Model that plays piano by predicting the next note in a sequence.
+
 
 # The_Pythonic_Python_Script_4_Making_Monty_Python_Scripts
 (I know, It is pretty much the best title ever!)
