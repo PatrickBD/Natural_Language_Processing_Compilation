@@ -60,3 +60,13 @@ Check it out on Kaggle: https://www.kaggle.com/valkling/pythonicpythonscript4mak
 Check it out with Seinfeld script data at: https://www.kaggle.com/valkling/pythonicpythonscript4making-seinfeld-scripts
 
 Check it out with the original Star Wars scripts: https://www.kaggle.com/valkling/making-new-ai-generated-star-wars-scripts
+
+# Stanford_Natural_Language_Inference
+
+*The SNLI corpus (version 1.0) is a collection of 570k human-written English sentence pairs manually labeled for balanced classification with the labels entailment, contradiction, and neutral, supporting the task of natural language inference (NLI), also known as recognizing textual entailment (RTE). We aim for it to serve both as a benchmark for evaluating representational systems for text, especially including those induced by representation learning methods, as well as a resource for developing NLP models of any kind.
+
+Read the rest here: https://nlp.stanford.edu/projects/snli/
+
+In short, the dataset provides one line of text and one hypothesis for the text. The goal of the model is to decide if the hypothesis contradicts, entails or is neutral to the text. So the example text "A man inspects the uniform of a figure in some East Asian country." with a hypothesis of "The man is sleeping" is a contradiction because the man cannot inspect if he is asleep.
+
+Check it out the notebook on Kaggle: https://www.kaggle.com/valkling/a-straight-forward-snli-elmo-cnn-attempt
