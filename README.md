@@ -61,7 +61,7 @@ Check it out with Seinfeld script data at: https://www.kaggle.com/valkling/pytho
 
 Check it out with the original Star Wars scripts: https://www.kaggle.com/valkling/making-new-ai-generated-star-wars-scripts
 
-# Stanford_Natural_Language_Inference
+# Stanford_Natural_Language_Inference (NLI/NLU)
 
 *The SNLI corpus (version 1.0) is a collection of 570k human-written English sentence pairs manually labeled for balanced classification with the labels entailment, contradiction, and neutral, supporting the task of natural language inference (NLI), also known as recognizing textual entailment (RTE). We aim for it to serve both as a benchmark for evaluating representational systems for text, especially including those induced by representation learning methods, as well as a resource for developing NLP models of any kind.
 
