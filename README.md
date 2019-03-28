@@ -69,6 +69,8 @@ Read the rest here: https://nlp.stanford.edu/projects/snli/
 
 In short, the dataset provides one line of text and one hypothesis for the text. The goal of the model is to decide if the hypothesis contradicts, entails or is neutral to the text. So the example text "A man inspects the uniform of a figure in some East Asian country." with a hypothesis of "The man is sleeping" is a contradiction because the man cannot inspect if he is asleep.
 
-Check it out the notebook on Kaggle: https://www.kaggle.com/valkling/a-straight-forward-snli-elmo-cnn-attempt
+Check it out the 1DCNN notebook on Kaggle: https://www.kaggle.com/valkling/a-straight-forward-snli-elmo-cnn-attempt
+
+Check it out the BiLSTM notebook on Kaggle: https://www.kaggle.com/valkling/snli-elmo-6bilstm-layers-attempt
 
 SNLI on Kaggle datasets: https://www.kaggle.com/stanfordu/stanford-natural-language-inference-corpus
